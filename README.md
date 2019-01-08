@@ -18,5 +18,5 @@ Currency format must be, for ex.: CZK. Date format must be, for ex.: 2019-01-01
 
 ### Finishing notes
 Program works from date 2014-09-30.
-No measures have been taken to catch badly entered currency name or data.
+No measures have been taken to catch badly entered currency name or date.
 
