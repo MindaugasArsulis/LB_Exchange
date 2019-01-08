@@ -1,5 +1,5 @@
 # Lietuvos Bankas Exchange rates
-Assignment
+Assignment. Program extracts xml files from www.lb.lt and shows currency rates in command line.
 
 ## How it works
 All class files have their own public_static_void_main method and they run command lines. Scanners have been used for data entering.
