@@ -1,5 +1,5 @@
 # Lietuvos Bankas Exchange rates
-Assigment for getting a job
+Assigment
 
 ## How it works
 All class files have their own public_static_void_main method and they run command lines. Scanners have been used for data entering.
